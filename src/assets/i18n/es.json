@@ -6,5 +6,151 @@
     "contact": "Contacto",
     "login": "Iniciar sesión",
     "register": "Registrarse"
+  },
+  "contact": {
+    "title": "Contactanos",
+    "name": "Nombre",
+    "email": "Email",
+    "message": "Contenido",
+    "submit": "Enviar"
+  },
+  "footer" : "Todos los derechos reservados.",
+  "hero-section": {
+    "title": "¿Qué es DriveNow?",
+    "subtitle1": "Alquila un coche o alquila el tuyo.",
+    "subtitle2": "Libertad para moverte o ganar.",
+    "button": "Descubre más"
+  },
+  "how-it-works-section": {
+    "title": "Cómo funciona.",
+    "step-1": "1. Regístrate",
+    "step-1-content": "Crea tu perfil y comienza de inmediato",
+    "step-2": "2. Busca o publica tu coche",
+    "step-2-content": "Encuentra el coche perfecto o publica el tuyo para alquileres temporales",
+    "step-3": "3. Tranquilidad",
+    "step-3-content": "Viaja seguro y disfruta de la tranquilidad"
+  },
+  "plans": {
+    "title": "Descubre nuestros planes premium para mayores beneficios, recompensas y mucho más!",
+    "subtitle": "Obtén acceso a ofertas y servicios exclusivos con nuestros planes premium.",
+    "our-plans": "Nuestros planes",
+    "basic": {
+      "title": "Plan Básico",
+      "cost": "Gratis",
+      "benefits": {
+        "benefit-1": "Comunidad DriveNow",
+        "benefit-2": "Acceso limitado a coches",
+        "benefit-3": "Tiempo de espera estándar"
+      }
+    },
+    "platinum": {
+      "title": "Plan Platino",
+      "cost": "S/.20",
+      "month": "/mes",
+      "most-popular": "Más popular",
+      "benefits": {
+        "benefit-1": "Comunidad DriveNow",
+        "benefit-2": "Acceso a toda la gama de coches",
+        "benefit-3": "Tiempo de espera preferencial",
+        "benefit-4": "Recomendación prioritaria para otros usuarios",
+        "benefit-5": "Soporte premium y bloqueo platino"
+      }
+    },
+    "golden": {
+      "title": "Plan Dorado",
+      "cost": "S/.25",
+      "month": "/mes",
+      "benefits": {
+        "benefit-1": "Comunidad DriveNow y distintivo verificado",
+        "benefit-2": "Acceso a toda la gama de coches y servicios adicionales",
+        "benefit-3": "Mejor preferencia en la comunidad",
+        "benefit-4": "La mejor recomendación para otros usuarios",
+        "benefit-5": "Soporte premium y bloqueo dorado",
+        "benefit-6": "Acumulación de puntos para canjes en tienda"
+      }
+    },
+    "subscribe": "Suscribirse",
+    "cancel": "Cancela en cualquier momento"
+  },
+  "safety-section": {
+    "title": "Medidas de Seguridad",
+    "owners": {
+      "title": "Propietarios",
+      "description": "Arrienda de manera segura utilizando nuestro seguro aprobado por la marca, garantizado para que tu futura experiencia de arrendamiento sea libre de problemas."
+    },
+    "renters": {
+      "title": "Arrendatarios",
+      "description": "Renta en cualquier lugar al que vayas, con la seguridad de que no estarás gastando de más en múltiples planes de seguro."
+    },
+    "learn-more": "Aprende más"
+  },
+  "team-section": {
+    "title": "Nuestro Equipo",
+    "aaron": {
+      "line1": "Desarrollador Front-end",
+      "line2": "Desarrollador Backend"
+    },
+    "george": {
+      "line1": "Desarrollador Frontend",
+      "line2": "Desarrollador Backend",
+      "line3": "Product owner"
+    },
+    "alex": {
+      "line1": "Desarrollador Front-end",
+      "line2": "Desarrollador Backend",
+      "line3": "Líder del equipo"
+    },
+    "jamir": {
+      "line1": "Desarrollador Frontend",
+      "line2": "Desarrollador Backend"
+    }
+  },
+  "testimonies-section": {
+    "title": "Testimonios de Usuarios",
+    "testimony1": {
+      "title": "¡Precios geniales!",
+      "testimony": "Los precios son comparables al valor de mercado, y las pólizas de seguro nos ayudaron a sentirnos seguros.",
+      "author": "Arrendatario"
+    },
+    "testimony2": {
+      "title": "Personal servicial",
+      "testimony": "El personal fue muy servicial en general, y el seguro nos salvó, así que usaré este servicio por un tiempo.",
+      "author": "Propietario"
+    },
+    "testimony3": {
+      "title": "Fácil de usar",
+      "testimony": "He estado alquilando mi coche por un tiempo, ¡pero esto lo hace mucho más fácil! Muy fácil de usar.",
+      "author": "Propietario"
+    },
+    "testimony4": {
+      "title": "¡Precios geniales!",
+      "testimony": "Los precios son comparables al valor de mercado, y las pólizas de seguro nos ayudaron a sentirnos seguros.",
+      "author": "Arrendatario"
+    },
+    "testimony5": {
+      "title": "El mejor",
+      "testimony": "El personal fue muy amable, y el seguro nos salvó. Seguiré usando este servicio por un tiempo.",
+      "author": "Propietario"
+    },
+    "testimony6": {
+      "title": "¡Increíble!",
+      "testimony": "He estado alquilando mi coche por un tiempo, ¡pero esto lo hace mucho más fácil! Muy fácil de usar.",
+      "author": "Propietario"
+    }
+  },
+  "why-section": {
+    "title": "¿Por qué DriveNow?",
+    "feature1": {
+      "title": "Comunidad",
+      "description": "Conéctate con nosotros y sé parte de la comunidad DriveNow."
+    },
+    "feature2": {
+      "title": "Seguridad",
+      "description": "Renta o arrienda con la mejor confianza gracias a nuestro sistema de seguridad."
+    },
+    "feature3": {
+      "title": "Precios Responsables",
+      "description": "Precios responsables gracias a nuestros procesos de categorización."
+    }
   }
 }
