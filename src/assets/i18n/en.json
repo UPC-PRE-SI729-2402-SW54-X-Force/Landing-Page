@@ -152,5 +152,11 @@
       "title": "Responsible Prices",
       "description": "Responsible pricing thanks to our categorization processes."
     }
+  },
+  "about-the-product-section":{
+    "title": "About the Product Video"
+  },
+  "about-the-team-section": {
+    "title": "About the Team Video"
   }
 }

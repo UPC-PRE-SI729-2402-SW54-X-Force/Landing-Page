@@ -1,0 +1,11 @@
+.about-the-team-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px;
+  background-color: #e67e22;
+}
+.about-the-team-video{
+  border-radius: 10px;
+  height: 400px;
+}
