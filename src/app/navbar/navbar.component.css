@@ -32,15 +32,30 @@ mat-toolbar {
   margin-right: 20px;
 }
 
+.auth-links{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+  gap: 10px;
+}
+
 .auth-links .login-btn {
   color: #2C3E50;
   background-color: #FFFFFF;
   border: 2px solid #2C3E50;
+  margin: 0;
 }
 
 .auth-links .register-btn {
   background-color: #2ECC71;
   color: #FFFFFF;
+  margin: 0;
+}
+
+.language-switcher{
+  margin-left: 10px;
 }
 
 .menu-icon {

@@ -10,7 +10,10 @@ import { SafetyComponent } from './safety/safety.component';
 import { PremiumPlansComponent } from './premium-plans/premium-plans.component';
 import { TeamComponent } from './team/team.component';
 import { ContactComponent } from './contact/contact.component';
-import { FooterComponent } from './footer/footer.component'; // Importa el componente de footer
+import { FooterComponent } from './footer/footer.component';
+import {TranslateModule, TranslateService} from "@ngx-translate/core";
+import {AboutTheProductComponent} from "./about-the-product/about-the-product.component";
+import {AboutTheTeamComponent} from "./about-the-team/about-the-team.component"; // Importa el componente de footer
 
 @Component({
   selector: 'app-root',
@@ -29,9 +32,17 @@ import { FooterComponent } from './footer/footer.component'; // Importa el compo
     PremiumPlansComponent,
     TeamComponent,
     ContactComponent,
-    FooterComponent
+    FooterComponent,
+    TranslateModule,
+    AboutTheProductComponent,
+    AboutTheTeamComponent
   ]
 })
 export class AppComponent {
   title = 'LandingPage';
+
+  constructor(translate: TranslateService) {
+    translate.setDefaultLang('en');
+    translate.use('en');
+  }
 }

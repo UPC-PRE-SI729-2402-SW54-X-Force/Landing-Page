@@ -1,0 +1,156 @@
+{
+  "nav-bar": {
+    "home": "Home",
+    "benefits": "Benefits",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Content",
+    "submit": "Submit"
+  },
+  "footer" : "All right reserved.",
+  "hero-section": {
+    "title": "What is DriveNow?",
+    "subtitle1": "Rent a car or rent out yours.",
+    "subtitle2": "Freedom to move or earn.",
+    "button": "Find out more"
+  },
+  "how-it-works-section": {
+    "title": "How it works.",
+    "step-1": "1. Register",
+    "step-1-content": "Create your profile and start immediately",
+    "step-2": "2. Search or Publish your car",
+    "step-2-content": "Find the perfect car or publish yours for temporary rentals",
+    "step-3": "3. Tranquility",
+    "step-3-content": "Travel safely and enjoy the peace of mind"
+  },
+  "plans": {
+    "title": "Discover our premium plans for greater benefits, rewards and much more!",
+    "subtitle": "Get access to exclusive deals and services with our premium plans.",
+    "our-plans": "Our plans",
+    "basic": {
+      "title": "Basic Plan",
+      "cost": "Free",
+      "benefits": {
+        "benefit-1": "DriveNow Community",
+        "benefit-2": "Limited car access",
+        "benefit-3": "Standard waiting time"
+      }
+    },
+    "platinum": {
+      "title": "Platinum Plan",
+      "cost": "S/.20",
+      "month": "/month",
+      "most-popular": "Most popular",
+      "benefits": {
+        "benefit-1": "DriveNow Community",
+        "benefit-2": "Access to the entire range of cars",
+        "benefit-3": "Preferential waiting time",
+        "benefit-4": "Priority recommendation for other users",
+        "benefit-5": "Premium support and platinum lock"
+      }
+    },
+    "golden": {
+      "title": "Golden Plan",
+      "cost": "S/.25",
+      "month": "/month",
+      "benefits": {
+        "benefit-1": "DriveNow Community and verified badge",
+        "benefit-2": "Access to full range of cars and extra services",
+        "benefit-3": "Best community preferencee",
+        "benefit-4": "The best recommendation to other users",
+        "benefit-5": "Premium support and golden lock",
+        "benefit-6": "Accumulation of points for in-store redemptions"
+      }
+    },
+    "subscribe": "Subscribe",
+    "cancel": "Cancel at any time"
+  },
+  "safety-section": {
+    "title": "Safety Measures",
+    "owners": {
+      "title": "Owners",
+      "description": "Lease safely by using our brand-approved insurance, guaranteed to make your future leasing experience headache-free."
+    },
+    "renters": {
+      "title": "Renters",
+      "description": "Rent everywhere you go, with the assurance and safety that you will not be breaking the bank on multiple insurance plans."
+    },
+    "learn-more": "Learn more"
+  },
+  "team-section": {
+    "title": "Our Team",
+    "aaron": {
+      "line1": "Front-end developer",
+      "line2": "Backend developer"
+    },
+    "george": {
+      "line1": "Frontend developer",
+      "line2": "Backend developer",
+      "line3": "Product owner"
+    },
+    "alex": {
+      "line1": "Front-end developer",
+      "line2": "Backend developer",
+      "line3": "Team leader"
+    },
+    "jamir": {
+      "line1": "Frontend developer",
+      "line2": "Backend developer"
+    }
+  },
+  "testimonies-section": {
+    "title": "User Testimonials",
+    "testimony1": {
+      "title": "Great prices!",
+      "testimony": "Prices are comparable to market value, and the insurance policies helped us feel safe!",
+      "author": "Renter"
+    },
+    "testimony2": {
+      "title": "Helpful staff",
+      "testimony": "Staff was very helpful in general, and insurance saved us, so I’ll be using this service for a while.",
+      "author": "Owner"
+    },
+    "testimony3": {
+      "title": "Easy to use",
+      "testimony": "I’ve been renting my car for a while, but this makes it a lot easier! Very user-friendly.",
+      "author": "Owner"
+    },
+    "testimony4": {
+      "title": "Great prices!",
+      "testimony": "Prices are comparable to market value, and the insurance policies helped us feel safe!",
+      "author": "Renter"
+    },
+    "testimony5": {
+      "title": "The Best",
+      "testimony": "Staff was very kind, and insurance saved us. I'll keep using this service for a while.",
+      "author": "Owner"
+    },
+    "testimony6": {
+      "title": "Amazing!",
+      "testimony": "I’ve been renting my car for a while, but this makes it a lot easier! Very user-friendly.",
+      "author": "Owner"
+    }
+  },
+  "why-section": {
+    "title": "Why DriveNow?",
+    "feature1": {
+      "title": "Community",
+      "description": "Connect with us and be part of the DriveNow community."
+    },
+    "feature2": {
+      "title": "Security",
+      "description": "Rent or lease with the best confidence thanks to our security system."
+    },
+    "feature3": {
+      "title": "Responsible Prices",
+      "description": "Responsible pricing thanks to our categorization processes."
+    }
+  }
+}
