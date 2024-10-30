@@ -11,7 +11,7 @@ import { PremiumPlansComponent } from './premium-plans/premium-plans.component';
 import { TeamComponent } from './team/team.component';
 import { ContactComponent } from './contact/contact.component';
 import { FooterComponent } from './footer/footer.component';
-import {TranslateService} from "@ngx-translate/core"; // Importa el componente de footer
+import {TranslateModule, TranslateService} from "@ngx-translate/core"; // Importa el componente de footer
 
 @Component({
   selector: 'app-root',
@@ -30,7 +30,8 @@ import {TranslateService} from "@ngx-translate/core"; // Importa el componente d
     PremiumPlansComponent,
     TeamComponent,
     ContactComponent,
-    FooterComponent
+    FooterComponent,
+    TranslateModule
   ]
 })
 export class AppComponent {

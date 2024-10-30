@@ -22,16 +22,16 @@
     <span class="spacer"></span>
 
     <div class="nav-links">
-      <a mat-button routerLink="/home">Home</a>
-      <a mat-button routerLink="/benefits">Benefits</a>
-      <a mat-button routerLink="/team">About</a>
-      <a mat-button routerLink="/contact">Contact</a>
+      <a mat-button routerLink="/home">{{ 'nav-bar.home' | translate}}</a>
+      <a mat-button routerLink="/benefits">{{ 'nav-bar.benefits' | translate}}</a>
+      <a mat-button routerLink="/team">{{ 'nav-bar.about' | translate}}</a>
+      <a mat-button routerLink="/contact">{{ 'nav-bar.contact' | translate}}</a>
       <a mat-button routerLink="/premium-plans">Premium</a>
     </div>
 
     <div class="auth-links">
-      <button mat-stroked-button class="login-btn" routerLink="/login">Log in</button>
-      <button mat-raised-button class="register-btn" routerLink="/register">Register</button>
+      <button mat-stroked-button class="login-btn" routerLink="/login">{{ 'nav-bar.login' | translate}}</button>
+      <button mat-raised-button class="register-btn" routerLink="/register">{{ 'nav-bar.register' | translate}}</button>
     </div>
 
     <div class="language-switcher">

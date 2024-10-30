@@ -1,0 +1,10 @@
+{
+  "nav-bar": {
+    "home": "Inicio",
+    "benefits": "Beneficios",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "login": "Iniciar sesión",
+    "register": "Registrarse"
+  }
+}

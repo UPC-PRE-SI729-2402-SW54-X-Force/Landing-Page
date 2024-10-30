@@ -1,0 +1,10 @@
+{
+  "nav-bar": {
+    "home": "Home",
+    "benefits": "Benefits",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register"
+  }
+}

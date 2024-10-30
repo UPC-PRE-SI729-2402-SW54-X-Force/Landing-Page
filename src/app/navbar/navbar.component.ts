@@ -6,6 +6,7 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { RouterModule } from '@angular/router';
 import {LanguageSwitcherComponent} from "../public/components/language-switcher/language-switcher.component";
+import {TranslateModule} from "@ngx-translate/core";
 
 @Component({
   selector: 'app-navbar',
@@ -18,6 +19,7 @@ import {LanguageSwitcherComponent} from "../public/components/language-switcher/
     MatListModule,
     RouterModule,
     LanguageSwitcherComponent,
+    TranslateModule,
   ],
   templateUrl: './navbar.component.html',
   styleUrls: ['./navbar.component.css']
