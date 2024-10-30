@@ -152,5 +152,11 @@
       "title": "Precios Responsables",
       "description": "Precios responsables gracias a nuestros procesos de categorización."
     }
+  },
+  "about-the-product-section":{
+    "title": "Video Sobre el Producto"
+  },
+  "about-the-team-section": {
+    "title": "Video Sobre el Equipo"
   }
 }
